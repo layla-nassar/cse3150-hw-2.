@@ -1,0 +1,6 @@
+# ignore build artifacts and binary
+*.o
+*.obj
+*.exe
+*.dSYM/
+greeter
